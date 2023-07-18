@@ -20,9 +20,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Ensure connectivity between the two Vms and install Active Directory 
+- Ensure connectivity between the two  Virtual machines and install Active Directory 
 - Create an Admin/Normal user account in Active Directory 
-- Setup Vms for non-administrative user and create additons user
+- Setup Virtual machines for non-administrative user and create addtions user
   
 
 <h2>Deployment and Configuration Steps</h2>
